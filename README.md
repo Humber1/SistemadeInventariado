@@ -4,4 +4,5 @@ Proyecto del sistema de inventariado realizado para la empresa Distribuidora Abu
 Pendientes:
 -Encabezado
 -Número de páginas
+-Añadir numero de figura
 
